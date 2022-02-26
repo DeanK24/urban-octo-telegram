@@ -15,9 +15,9 @@ https://deank24.github.io/urban-octo-telegram/
 Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
+    
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![Screenshot](/_C__Users_deank_challenges_urban-octo-telegram_index.html.png)
     ```
 
 ## Credits
